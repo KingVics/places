@@ -10,14 +10,14 @@ const UserPlace = () => {
     const UserPlace = [
         {
             id: 'p1',
-            imageUrl: "https://miro.medium.com/max/10000/0*IshEnEVIK-mYHuy1",
+            imageUrl: "https://i0.wp.com/moldbymola.com/wp-content/uploads/2018/10/IMG_0993.jpg?resize=960%2C1200",
             title: " Empire State Building",
             description: "Had a fun day at the Empire Building, one of the most famous place. ",
             address: "20 W 34th St, New York, NY 10001",
             creator: "u1",
             location: {
-                lat: 40.7484405,
-                lot: -73.9878531,
+                lat: 6.4006402,
+                lng: 3.3928954,
             }
         },
         {
@@ -29,7 +29,7 @@ const UserPlace = () => {
             creator: "ul",
             location: {
                 lat: 40.7484405,
-                lot: -73.9878531,
+                lng: -73.9878531,
             }
         }
     ]
